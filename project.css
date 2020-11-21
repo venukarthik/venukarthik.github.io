@@ -6,15 +6,17 @@
     background-size: cover;
     opacity: 10;
 }
+
 html {
     scroll-behavior: smooth;
   }
 
 .card{
-    width:100vw;
+    
     background-color: white;
     color: black;
     opacity: 0.5;
+    width:100%;
 }
 
   
@@ -42,6 +44,13 @@ html {
     font-weight: bolder;
     color: white;
 }
+
+
+
+  
+
+
+
 .part-2{
     background-image: url("https://res.cloudinary.com/dmejzk3co/image/upload/v1604498341/pexels-photo-167699_dhyxok.jpg");
     width: 100vw;

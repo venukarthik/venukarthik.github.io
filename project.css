@@ -11,8 +11,7 @@ html {
   }
 
 .card{
-    margin-right: 30%;
-    margin-left: 33%;
+    width:100%;
     background-color: white;
     color: black;
     opacity: 0.5;

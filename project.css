@@ -1,5 +1,5 @@
 .part-1{
-    background-image: url("pexels-photo-414144.jpeg");
+    background-image: url("https://res.cloudinary.com/dmejzk3co/image/upload/v1604498341/pexels-photo-414144_jxuooq.jpg");
     width: 100vw;
     height:100vh ;
     text-align: center;
@@ -44,7 +44,7 @@ html {
     color: white;
 }
 .part-2{
-    background-image: url("pexels-photo-167699.jpeg");
+    background-image: url("https://res.cloudinary.com/dmejzk3co/image/upload/v1604498341/pexels-photo-167699_dhyxok.jpg");
     width: 100vw;
     height:100vh ;
     text-align: center;

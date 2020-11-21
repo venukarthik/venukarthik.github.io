@@ -1,0 +1,59 @@
+.part-1{
+    background-image: url("pexels-photo-414144.jpeg");
+    width: 100vw;
+    height:100vh ;
+    text-align: center;
+    background-size: cover;
+    opacity: 10;
+}
+html {
+    scroll-behavior: smooth;
+  }
+
+.card{
+    margin-right: 30%;
+    margin-left: 33%;
+    background-color: white;
+    color: black;
+    opacity: 0.5;
+}
+
+  
+
+.img{
+    width: 40px;
+    height: 40px;
+   
+}
+.nav-text{
+    margin: 5px;
+    font-weight: bold;
+    color: black;
+    
+}
+.center{
+    font-weight: 1000;
+    font-size: 100px;
+    color: white;
+    font-family: sans-serif;
+    font-family: 'Tangerine', serif;
+}
+.par{
+    font-size:30px ;
+    font-weight: bolder;
+    color: white;
+}
+.part-2{
+    background-image: url("pexels-photo-167699.jpeg");
+    width: 100vw;
+    height:100vh ;
+    text-align: center;
+    background-size: cover;
+    opacity: 10;
+}
+  
+
+
+  
+
+

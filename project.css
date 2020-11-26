@@ -57,7 +57,7 @@
 .sticky {
     position: -webkit-sticky;
     position: sticky;
-    top: 8;
+    top: 6;
     z-index: 1;
     
 }

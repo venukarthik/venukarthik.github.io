@@ -2,14 +2,14 @@
 
 .card-1 {
     background-color: black;
-    height: 55px;
+    height: 15vh;
 
 
 }
 .main-head {
     font-weight: bold;
-    color: white;
     font-size: 3vh;
+    color: white;
     padding-top: 0px;
     text-align: center;
     font-family: 'Lobster', cursive;

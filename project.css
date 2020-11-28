@@ -62,3 +62,14 @@ body {
     
     
 }
+.card-footer-1{
+    background-color: black;
+    
+    color: blanchedalmond;
+
+}
+.footer-text{
+    width: 25vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}

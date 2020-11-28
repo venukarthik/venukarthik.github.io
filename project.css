@@ -1,4 +1,4 @@
-.back-1{@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
 .card-1 {
     background-color: black;
@@ -59,90 +59,6 @@ body {
 }
 .responsives{
     width: 100%;
-    image-resolution: ;
-    
-}
-   background-color: black; 
-   height: 60px;
-   
-  
-}
-.head-1{
-    
-    color:white;
-    padding-top: 30vh;
-    padding-left: 15vw;
-    text-shadow: white;
-    font-size: x-large;
-    font-weight: bold;
-    font-style: italic;
-    font-family: 'Times New Roman', Times, serif;
-}
-.back-2{
-    background-color:white;
     
     
-}
-.back-3{
-    background-color:white;
-    
-}
-.img{
-    height: 400px;
-    width: 400px;
-    margin: 3vh;
-    border-radius: 5px;
-}
-.part2-heading{
-    margin: 1vh;
-    color: black;
-
-
-}
-.part2-para{
-    margin: 1vh;
-    color: black;
-    
-}
-.img-2{
-    margin-top: 3vh;
-    border-radius: 5px;
-}
-
-.main-head{
-    font-weight: bold;
-    color: whitesmoke;
-    font-size:3vh;
-    padding-top: 1px;
-    text-align: center;
-    
-}
-.sticky {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    z-index: 1;
-   width:100vw;
-    
-}
-
-
-.text{
-      color:black;
-      font-weight: bold;
-      font-size: large;
-}
-.images{
-    width:430px;
-    height:350px;
-    border-radius: 3vh;
-    
-}
-.card-1{
-    border-radius: 0px;
-    border-color: white;
-    margin: 3vh;
-    margin-right: 3vh;
-    margin-left: 0px;
-    padding-right: 3vh;
 }
